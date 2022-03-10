@@ -18,7 +18,8 @@
 * Jest
 
 <img src="https://www.codewars.com/users/TomBCold/badges/small">
-Связаться со мной можно в: [telegram](https://t.me/IgorSychev03)
+
+Связаться со мной можно в [telegram](https://t.me/IgorSychev03)
 
 <!--
 **TomBCold/TomBCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

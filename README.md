@@ -1,4 +1,23 @@
-### Hi there 👋
+### Привет! 👋
+
+### Меня зовут Игорь и я JavaScript разработчик.
+
+** Мой стэк:**
+* HTML/CSS
+* JavaScript
+* React
+* Redux
+* Redux-thunk
+* Node.JS
+* Express
+* PostgreSQL
+* Sequelize
+* Ajax
+* Axios
+* Milter
+* Jest
+
+<img src="https://www.codewars.com/users/TomBCold/badges/small">
 
 <!--
 **TomBCold/TomBCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

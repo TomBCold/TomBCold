@@ -14,7 +14,7 @@
 * Sequelize
 * Ajax
 * Axios
-* Milter
+* Multer
 * Jest
 
 <img src="https://www.codewars.com/users/TomBCold/badges/small">
